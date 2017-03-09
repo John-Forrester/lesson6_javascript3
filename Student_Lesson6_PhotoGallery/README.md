@@ -10,7 +10,7 @@ LIS 2360:  Web Application Development
 (John Forrester)
 
 ### Project Description:
-(This assingment taught students about the DOM and BOM structures as well as how to use them in reference to a photo gallery template.)
+(This assignment teaches students about the DOM and BOM structures as well as how to use them in reference to a photo gallery template.)
 
 ### View Project:
 ( https://john-forrester.github.io/lesson6_javascript3/ )
